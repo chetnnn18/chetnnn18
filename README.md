@@ -25,7 +25,7 @@
 const chetan = {
   name:       "Chetan Kumar",
   location:   "Phagwara, Punjab, India 🇮🇳",
-  education:  "B.Tech CS @ Lovely Professional University (2027)",
+  education:  "MCA @ Lovely Professional University (2027)",
   role:       "Full Stack Developer | Problem Solver | Open Source Enthusiast",
   mission:    "Building meaningful software, one commit at a time.",
   available:  true, // Open to internships & collaborations
@@ -38,7 +38,7 @@ const chetan = {
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** at LPU with a deep love for building things that live on the internet. Whether it's a slick UI, a robust API, or an elegant database schema — I care about every layer of the stack.
+I'm a **Computer Application student** at LPU with a deep love for building things that live on the internet. Whether it's a slick UI, a robust API, or an elegant database schema — I care about every layer of the stack.
 
 - 🎯 **Goal:** Land a high-impact software engineering role and contribute to products used by millions
 - 💡 **Interests:** Full Stack Development, Open Source, System Design, and UI/UX
@@ -66,7 +66,7 @@ I'm a passionate **Computer Science student** at LPU with a deep love for buildi
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
