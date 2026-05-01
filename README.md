@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Chetan+Kumar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Turning+Ideas+into+Code+%F0%9F%9A%80;LPU+CS+Student+%7C+Class+of+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Chetan+Kumar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Turning+Ideas+into+Code+%F0%9F%9A%80;LPU+MCA+Student+%7C+Class+of+2027)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankr18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetnnn18/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-chetnnn)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chetnnn_x)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
 
 <br/>
 
@@ -24,7 +24,7 @@
 ```javascript
 const chetan = {
   name:       "Chetan Kumar",
-  location:   "Phagwara, Punjab, India 🇮🇳",
+  location:   "Jalandhar, Punjab, India 🇮🇳",
   education:  "MCA @ Lovely Professional University (2027)",
   role:       "Full Stack Developer | Problem Solver | Open Source Enthusiast",
   mission:    "Building meaningful software, one commit at a time.",
@@ -59,13 +59,13 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🧰 Tools & Platforms
@@ -105,7 +105,6 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 </div>
 
-<!-- Snake Animation -->
 <div align="center">
 
 <picture>
@@ -124,11 +123,9 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:--------------|:--------------|:--------|
-| **DevConnect** | A social platform for developers to share projects, collaborate, and network in real time | React, Node.js, MongoDB, Socket.io | [View Repo →](https://github.com/git-chetnnn) |
-| **ShopEase** | A full-featured e-commerce web app with cart, auth, payment integration, and admin dashboard | React, Express, MySQL, Stripe API | [View Repo →](https://github.com/git-chetnnn) |
-| **TaskFlow** | A clean Kanban-style task management tool with drag-and-drop, deadlines, and team collaboration | React, Tailwind, Node.js, MongoDB | [View Repo →](https://github.com/git-chetnnn) |
-| **WeatherNow** | A real-time weather dashboard with 7-day forecasts, geolocation, and animated weather conditions | HTML, CSS, JavaScript, OpenWeather API | [View Repo →](https://github.com/git-chetnnn) |
-| **CodeSnap** | A developer tool to generate beautiful, shareable code screenshots with theme support | React, Tailwind CSS | [View Repo →](https://github.com/git-chetnnn) |
+| **Community Resource Sharing** | A platform that enables communities to list, discover, and share local resources — from tools to skills — fostering collaboration and reducing waste | Java, MySQL | [View Repo →](https://github.com/git-chetnnn) |
+| **University Blog** | A dynamic multi-user blog platform for university students and faculty to publish articles, announcements, and academic content with an admin panel | HTML, CSS, JavaScript, PHP, MySQL | [View Repo →](https://github.com/git-chetnnn) |
+| **Developer Portfolio** | A clean, responsive personal portfolio showcasing projects, skills, and contact info — built entirely with vanilla frontend technologies | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | [View Repo →](https://github.com/git-chetnnn) |
 
 </div>
 
@@ -139,9 +136,9 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 ## 🌱 Currently Learning
 
 ```
-📚 Learning Stack — 2025
-├── 🔷 TypeScript         — Strongly typing my JavaScript world
-├── ⚛️  Next.js            — SSR, SSG & full stack React apps
+📚 Learning Stack — 2026
+├── ☕ Java               — Mastering OOP, collections & core concepts
+├── 🌱 Spring Boot        — Building production-grade REST APIs & microservices
 ├── 🐳 Docker             — Containerizing applications
 ├── 🏗️  System Design      — Scalability, load balancing, and architecture patterns
 └── 🧮 DSA (LeetCode)     — Sharpening problem solving daily
@@ -155,10 +152,10 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 I'm always open to **internships**, **collaborative projects**, **open source contributions**, and great conversations about tech.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankr18)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetnnn18/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-chetnnn)
-[![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan@email.com)
-[![Twitter](https://img.shields.io/badge/Say_Hi_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
+[![Twitter](https://img.shields.io/badge/Say_Hi_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chetnnn_x)
 
 </div>
 
