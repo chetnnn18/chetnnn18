@@ -6,14 +6,14 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetnnn18/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-chetnnn)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chetnnn_x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=git-chetnnn&label=Profile+Views&color=6E40C9&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/git-chetnnn?style=flat-square&color=6E40C9)
+![Profile Views](https://komarev.com/ghpvc/?username=chetnnn18&label=Profile+Views&color=6E40C9&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/chetnnn18?style=flat-square&color=6E40C9)
 
 </div>
 
@@ -83,15 +83,15 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=git-chetnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Chetan's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chetnnn18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Chetan's GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-chetnnn&theme=tokyonight&hide_border=true" height="180" alt="Chetan's Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnnn18&theme=tokyonight&hide_border=true" height="180" alt="Chetan's Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-chetnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnnn18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -101,16 +101,16 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 <div align="center">
 
-[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-chetnnn&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chetnnn18&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git-chetnnn/git-chetnnn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/git-chetnnn/git-chetnnn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/git-chetnnn/git-chetnnn/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -123,9 +123,9 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:--------------|:--------------|:--------|
-| **Community Resource Sharing** | A platform that enables communities to list, discover, and share local resources — from tools to skills — fostering collaboration and reducing waste | Java, MySQL | [View Repo →](https://github.com/git-chetnnn) |
-| **University Blog** | A dynamic multi-user blog platform for university students and faculty to publish articles, announcements, and academic content with an admin panel | HTML, CSS, JavaScript, PHP, MySQL | [View Repo →](https://github.com/git-chetnnn) |
-| **Developer Portfolio** | A clean, responsive personal portfolio showcasing projects, skills, and contact info — built entirely with vanilla frontend technologies | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | [View Repo →](https://github.com/git-chetnnn) |
+| **Community Resource Sharing** | A platform that enables communities to list, discover, and share local resources — from tools to skills — fostering collaboration and reducing waste | Java, MySQL | [View Repo →](https://github.com/chetnnn18) |
+| **University Blog** | A dynamic multi-user blog platform for university students and faculty to publish articles, announcements, and academic content with an admin panel | HTML, CSS, JavaScript, PHP, MySQL | [View Repo →](https://github.com/chetnnn18) |
+| **Developer Portfolio** | A clean, responsive personal portfolio showcasing projects, skills, and contact info — built entirely with vanilla frontend technologies | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | [View Repo →](https://github.com/chetnnn18) |
 
 </div>
 
@@ -153,7 +153,7 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 I'm always open to **internships**, **collaborative projects**, **open source contributions**, and great conversations about tech.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetnnn18/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-chetnnn)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18)
 [![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
 [![Twitter](https://img.shields.io/badge/Say_Hi_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chetnnn_x)
 
@@ -185,7 +185,7 @@ I'm always open to **internships**, **collaborative projects**, **open source co
 
 <br/>
 
-*Crafted with ❤️ and a lot of ☕ by [Chetan Kumar](https://github.com/git-chetnnn)*
+*Crafted with ❤️ and a lot of ☕ by [Chetan Kumar](https://github.com/chetnnn18)*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
