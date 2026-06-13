@@ -124,7 +124,7 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:--------------|:--------------|:--------|
 | **Community Resource Sharing** | A platform that enables communities to list, discover, and share local resources — from tools to skills — fostering collaboration and reducing waste | Java, MySQL | [View Repo →](https://github.com/chetnnn18) |
-| **University Blog** | A dynamic multi-user blog platform for university students and faculty to publish articles, announcements, and academic content with an admin panel | HTML, CSS, JavaScript, PHP, MySQL | [View Repo →](https://github.com/chetnnn18) |
+| **University Blog Page** | A dynamic multi-user blog platform for university students and faculty to publish articles, announcements, and academic content with an admin panel | HTML, CSS, JavaScript, PHP, MySQL | [View Repo →](https://github.com/chetnnn18) |
 | **Developer Portfolio** | A clean, responsive personal portfolio showcasing projects, skills, and contact info — built entirely with vanilla frontend technologies | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | [View Repo →](https://github.com/chetnnn18) |
 
 </div>
