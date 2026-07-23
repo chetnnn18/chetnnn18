@@ -123,25 +123,27 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:--------------|:--------------|:--------|
-| **Community Resource Sharing** | A platform that enables communities to list, discover, and share local resources — from tools to skills — fostering collaboration and reducing waste | Java, MySQL | [View Repo →](https://github.com/chetnnn18) |
-| **University Blog Page** | A dynamic multi-user blog platform for university students and faculty to publish articles, announcements, and academic content with an admin panel | HTML, CSS, JavaScript, PHP, MySQL | [View Repo →](https://github.com/chetnnn18) |
-| **Developer Portfolio** | A clean, responsive personal portfolio showcasing projects, skills, and contact info — built entirely with vanilla frontend technologies | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | [View Repo →](https://github.com/chetnnn18) |
+| **ShareNest – Campus Resource Sharing** | A full-stack platform that enables students to share, borrow, and manage campus resources with secure authentication, role-based access, and real-time availability tracking. | Java, Spring Boot, React.js, MySQL, Bootstrap | [View Repo →](https://github.com/chetnnn18/ShareNest) |
+| **WasteWise – Smart Waste Management** | A MERN-based waste management platform where users can report waste, track cleanup requests, and visualize analytics through an interactive dashboard with secure authentication. | React.js, Node.js, Express.js, MongoDB, JWT | [View Repo →](https://github.com/chetnnn18/WasteWise) |
+| **JharVista AI – Smart Tourism Platform** | An AI-powered tourism platform that helps users explore Jharkhand with personalized trip planning, hidden destinations, cultural insights, and AI-generated travel recommendations. | React.js, Node.js, Express.js, MongoDB, Gemini AI | [View Repo →](https://github.com/chetnnn18/JharVista) |
 
 </div>
 
-> 💡 *Note: More projects are actively being built and will be pushed soon. Watch this space!*
+> 💡 *I'm continuously building impactful full-stack applications while strengthening my expertise in Java, Spring Boot, MERN Stack, and System Design.*
 
 ---
 
 ## 🌱 Currently Learning
 
-```
-📚 Learning Stack — 2026
-├── ☕ Java               — Mastering OOP, collections & core concepts
-├── 🌱 Spring Boot        — Building production-grade REST APIs & microservices
-├── 🐳 Docker             — Containerizing applications
-├── 🏗️  System Design      — Scalability, load balancing, and architecture patterns
-└── 🧮 DSA (LeetCode)     — Sharpening problem solving daily
+```text
+📚 Current Learning Journey
+
+├── ☕ Core Java          — OOP, Collections & Problem Solving
+├── ⚛️ React.js           — Building Responsive User Interfaces
+├── 🚀 Node.js & Express  — Developing RESTful APIs
+├── 🍃 MongoDB            — Database Design & Aggregation
+├── 🧩 DSA                — Solving LeetCode Problems Daily
+└── 🔧 Git & GitHub       — Version Control & Collaboration
 ```
 
 ---
