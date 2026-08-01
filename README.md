@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Chetan+Kumar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Turning+Ideas+into+Code+%F0%9F%9A%80;LPU+MCA+Student+%7C+Class+of+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&col
+or=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Chetan+Kumar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Turning+Ideas+into+Code+%F0%9F%9A%80;LPU+MCA+Student+%7C+Class+of+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -101,7 +102,7 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 
 <div align="center">
 
-[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chetnnn18&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Chetan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetnnn18&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
