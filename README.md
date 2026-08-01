@@ -1,138 +1,237 @@
 <div align="center">
 
-<!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&col
-or=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Chetan+Kumar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Turning+Ideas+into+Code+%F0%9F%9A%80;LPU+MCA+Student+%7C+Class+of+2027)](https://git.io/typing-svg)
+<img src="Assets/output.gif" width="720" alt="Chetan Kumar — animated intro"/>
+
+<br/><br/>
+
+# Hi 👋 I'm Chetan Kumar
+
+### Software Developer
+
+**Java · MERN Stack · DSA**
+
+I build clean, reliable full-stack products — from database schema to pixel-perfect UI.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetnnn18/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chetnnn_x)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetnnn18)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chetnnn_x)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chetnnn18&label=Profile+Views&color=6E40C9&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/chetnnn18?style=flat-square&color=6E40C9)
+<div align="center">
+
+## About Me
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-## 👋 Hello, World!
+### ☕
+**Java Developer**
+<br/>
+<sub>Backend logic & OOP</sub>
 
-```javascript
-const chetan = {
-  name:       "Chetan Kumar",
-  location:   "Jalandhar, Punjab, India 🇮🇳",
-  education:  "MCA @ Lovely Professional University (2027)",
-  role:       "Full Stack Developer | Problem Solver | Open Source Enthusiast",
-  mission:    "Building meaningful software, one commit at a time.",
-  available:  true, // Open to internships & collaborations
-};
-```
+</td>
+<td align="center" width="33%">
 
-> *"Code is not just syntax — it's a craft. I write code that people can read, machines can run, and the world can use."*
+### 🌐
+**MERN Stack Developer**
+<br/>
+<sub>End-to-end web apps</sub>
 
----
+</td>
+<td align="center" width="33%">
 
-## 🚀 About Me
+### 💻
+**Problem Solver**
+<br/>
+<sub>200+ problems solved</sub>
 
-I'm a **Computer Application student** at LPU with a deep love for building things that live on the internet. Whether it's a slick UI, a robust API, or an elegant database schema — I care about every layer of the stack.
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-- 🎯 **Goal:** Land a high-impact software engineering role and contribute to products used by millions
-- 💡 **Interests:** Full Stack Development, Open Source, System Design, and UI/UX
-- 🔭 **Currently Building:** Personal projects to sharpen my full stack skills
-- 🤝 **Collaboration:** Always open to working on meaningful projects and hackathons
-- 🧠 **Mindset:** Consistent learner — I believe 1% better every day compounds into something extraordinary
+### 🌱
+**Open Source Learner**
+<br/>
+<sub>Reading & contributing</sub>
 
----
+</td>
+<td align="center" width="33%">
 
-## 🛠️ Tech Stack
+### 🎓
+**MCA Final-Year Student**
+<br/>
+<sub>Lovely Professional University</sub>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+### 📍
+**Based in**
+<br/>
+<sub>Punjab, India 🇮🇳</sub>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+</td>
+</tr>
+</table>
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chetnnn18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Chetan's GitHub Stats"/>
+## Tech Stack
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnnn18&theme=tokyonight&hide_border=true" height="180" alt="Chetan's Streak"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnnn18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+## Featured Projects
 
 </div>
 
----
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
-## 📈 Contribution Graph
+<img src="https://placehold.co/400x220/0d1117/ffffff?text=ShareNest" width="100%"/>
+
+**ShareNest**
+<br/>
+Campus resource-sharing platform with secure auth, role-based access, and real-time availability tracking.
+<br/><br/>
+`Java` `Spring Boot` `React` `MySQL`
+<br/><br/>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18/ShareNest)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://placehold.co/400x220/0d1117/ffffff?text=WasteWise" width="100%"/>
+
+**WasteWise**
+<br/>
+MERN waste-management platform for reporting waste, tracking cleanup, and visualizing analytics on a live dashboard.
+<br/><br/>
+`React` `Node.js` `Express` `MongoDB` `JWT`
+<br/><br/>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18/WasteWise)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://placehold.co/400x220/0d1117/ffffff?text=JharVista+AI" width="100%"/>
+
+**JharVista AI**
+<br/>
+AI-powered tourism platform with personalized trip planning, hidden destinations, and cultural insights via Gemini AI.
+<br/><br/>
+`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+<br/><br/>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18/JharVista)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-![Chetan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetnnn18&theme=tokyo-night&hide_border=true&area=true)
+## Achievements
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**200+**
+<br/>
+<sub>Coding Problems Solved</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**Multiple**
+<br/>
+<sub>Full-Stack Projects Built</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 📚
+**Consistent**
+<br/>
+<sub>DSA Practice</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🌱
+**Active**
+<br/>
+<sub>Open Source Learner</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake.svg" />
-</picture>
+## Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chetnnn18/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 
 </div>
 
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
-|:-----------|:--------------|:--------------|:--------|
-| **ShareNest – Campus Resource Sharing** | A full-stack platform that enables students to share, borrow, and manage campus resources with secure authentication, role-based access, and real-time availability tracking. | Java, Spring Boot, React.js, MySQL, Bootstrap | [View Repo →](https://github.com/chetnnn18/ShareNest) |
-| **WasteWise – Smart Waste Management** | A MERN-based waste management platform where users can report waste, track cleanup requests, and visualize analytics through an interactive dashboard with secure authentication. | React.js, Node.js, Express.js, MongoDB, JWT | [View Repo →](https://github.com/chetnnn18/WasteWise) |
-| **JharVista AI – Smart Tourism Platform** | An AI-powered tourism platform that helps users explore Jharkhand with personalized trip planning, hidden destinations, cultural insights, and AI-generated travel recommendations. | React.js, Node.js, Express.js, MongoDB, Gemini AI | [View Repo →](https://github.com/chetnnn18/JharVista) |
-
-</div>
-
-> 💡 *I'm continuously building impactful full-stack applications while strengthening my expertise in Java, Spring Boot, MERN Stack, and System Design.*
-
----
+<br/>
 
 ## 🌱 Currently Learning
 
@@ -140,56 +239,87 @@ I'm a **Computer Application student** at LPU with a deep love for building thin
 📚 Current Learning Journey
 
 ├── ☕ Core Java          — OOP, Collections & Problem Solving
-├── ⚛️ React.js           — Building Responsive User Interfaces
-├── 🚀 Node.js & Express  — Developing RESTful APIs
+├── ⚛️ React.js           — Building Responsive Interfaces
+├── 🚀 Node.js & Express  — Developing REST APIs
 ├── 🍃 MongoDB            — Database Design & Aggregation
-├── 🧩 DSA                — Solving LeetCode Problems Daily
+├── 🧩 DSA                — Solving Problems Across Coding Platforms & Participating in Contests
 └── 🔧 Git & GitHub       — Version Control & Collaboration
 ```
 
----
-
-## 🤝 Connect With Me
+<br/>
 
 <div align="center">
 
-I'm always open to **internships**, **collaborative projects**, **open source contributions**, and great conversations about tech.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetnnn18/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetnnn18)
-[![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetankr0903@gmail.com)
-[![Twitter](https://img.shields.io/badge/Say_Hi_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chetnnn_x)
+## Current Focus
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="20%">☕<br/><b>Java & DSA</b></td>
+<td align="center" width="20%">🌐<br/><b>MERN Stack</b></td>
+<td align="center" width="20%">🏆<br/><b>Coding Contests</b></td>
+<td align="center" width="20%">📚<br/><b>System Design</b></td>
+<td align="center" width="20%">🌱<br/><b>Open Source</b></td>
+</tr>
+</table>
 
-## ⚡ Fun Facts About Me
+<br/>
 
-```
-🎮  I debug code better with lo-fi music playing in the background.
-☕  My productivity is directly proportional to cups of chai consumed.
-📖  I read tech blogs like others read novels — can't stop once I start.
-🌙  My best commits happen after midnight. The code knows.
-🏏  When I'm not coding, you'll find me following cricket or hiking trails.
-```
+<div align="center">
+
+## GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=chetnnn18&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnnn18&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnnn18&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" height="165" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chetnnn18&theme=github_dark_dimmed&hide_border=true&layout=compact" height="165" alt="LeetCode Stats" onerror="this.style.display='none'"/>
+<img src="https://leetcard.jacoblin.cool/chetnnn18?theme=dark&font=Fira%20Code&ext=heatmap&border=false" height="165" alt="LeetCode Stats Card"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=chetnnn18&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chetnnn18&theme=github-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=79C0FF&bg_color=0D1117" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+> ℹ️ Stats/trophy/streak/LeetCode cards are served by third-party Vercel/Heroku instances. If one shows an error after pushing, it's the hosted instance, not your markdown — refresh in a few minutes. Replace `jacoblin.cool` LeetCode card params if you'd rather use a different provider (e.g. `leetcard.jacoblin.cool` requires no key, but confirm your handle resolves before relying on it).
+
+<br/>
+
+<div align="center">
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/chetnnn18/chetnnn18/output/github-snake.svg" />
+</picture>
+
+</div>
+
+> ⚠️ This image is generated automatically by `.github/workflows/snake.yml` (included in this delivery) once it's pushed to your `chetnnn18/chetnnn18` repo and runs at least once — see **SETUP-INSTRUCTIONS.md** for the exact steps.
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-**If you find my work interesting, consider giving a ⭐ — it genuinely motivates me to keep building!**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 <br/>
 
-*Crafted with ❤️ and a lot of ☕ by [Chetan Kumar](https://github.com/chetnnn18)*
+**Made with ❤️ by [Chetan Kumar](https://github.com/chetnnn18)**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
