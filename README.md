@@ -304,8 +304,6 @@ AI-powered tourism platform with personalized trip planning, hidden destinations
 
 </div>
 
-> ⚠️ This image is generated automatically by `.github/workflows/snake.yml` (included in this delivery) once it's pushed to your `chetnnn18/chetnnn18` repo and runs at least once — see **SETUP-INSTRUCTIONS.md** for the exact steps.
-
 <br/>
 
 ---
